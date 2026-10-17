@@ -14,4 +14,4 @@ Run application commands from `daywell/`, not this workspace root:
 cd daywell
 ```
 
-If you open this workspace in Codex or another AI tool, ask it to read `daywell/README.md` before making changes. The source repository begins inside `daywell/`; the root README and `.tools/` directory are outside that repository.
+If you open this workspace in Codex or another AI tool, ask it to read `daywell/README.md` before making changes. The source repository begins inside `daywell/`; the root README and `.tools/` directory are outside that repository
